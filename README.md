@@ -1,0 +1,1 @@
+This SQL project is focused on analyzing the data of an online music store. By examining the provided dataset with SQL, we can help the store understand its business growth by answering simple questions.
