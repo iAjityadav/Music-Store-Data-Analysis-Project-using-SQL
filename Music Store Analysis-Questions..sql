@@ -1,7 +1,7 @@
 
 SQL PROJECT- MUSIC STORE DATA ANALYSIS
 Question Set 1 - Easy
-1. Who is the senior most employee based on job title?
+1. Who is the most selling artist?
 2. Which countries have the most Invoices?
 3. What are top 3 values of total invoice?
 4. Which city has the best customers? We would like to throw a promotional Music
